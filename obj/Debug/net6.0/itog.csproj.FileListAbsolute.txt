@@ -1,0 +1,15 @@
+D:\Рабочий стол\itog\obj\Debug\net6.0\itog.csproj.AssemblyReference.cache
+D:\Рабочий стол\itog\obj\Debug\net6.0\itog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий стол\itog\obj\Debug\net6.0\itog.AssemblyInfoInputs.cache
+D:\Рабочий стол\itog\obj\Debug\net6.0\itog.AssemblyInfo.cs
+D:\Рабочий стол\itog\obj\Debug\net6.0\itog.csproj.CoreCompileInputs.cache
+D:\Рабочий стол\itog\bin\Debug\net6.0\itog.exe
+D:\Рабочий стол\itog\bin\Debug\net6.0\itog.deps.json
+D:\Рабочий стол\itog\bin\Debug\net6.0\itog.runtimeconfig.json
+D:\Рабочий стол\itog\bin\Debug\net6.0\itog.dll
+D:\Рабочий стол\itog\bin\Debug\net6.0\itog.pdb
+D:\Рабочий стол\itog\obj\Debug\net6.0\itog.dll
+D:\Рабочий стол\itog\obj\Debug\net6.0\refint\itog.dll
+D:\Рабочий стол\itog\obj\Debug\net6.0\itog.pdb
+D:\Рабочий стол\itog\obj\Debug\net6.0\itog.genruntimeconfig.cache
+D:\Рабочий стол\itog\obj\Debug\net6.0\ref\itog.dll
